@@ -1,0 +1,4 @@
+packaging:
+  add:
+    - target/jdhello-0.0.1-SNAPSHOT.jar
+tag: jdhello-app

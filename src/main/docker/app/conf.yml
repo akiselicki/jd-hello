@@ -1,0 +1,4 @@
+packaging:
+  add:
+    - target/${project.build.finalName}.jar
+tag: ${project.artifactId}-app
